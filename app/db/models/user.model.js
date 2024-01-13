@@ -140,11 +140,4 @@ const User = mongoose.model("User", userSchema);
 
 module.exports = User;
 
-// Access key
-// AKIA2TZ7EBU4MOGPWSOF
 
-// Secret access key
-// 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
-
-// s3 bucketname
-// desktopdb
